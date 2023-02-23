@@ -1,15 +1,15 @@
-# Яндекс.Музыка
-## Итоги исследования
-Проверено три гипотезы и установлено:
+# Yandex.Music
+## Research results
+Three hypotheses were checked and installed:
 
-День недели по-разному влияет на активность пользователей в Москве и Петербурге.
+1. The day of the week affects the activity of users in Moscow and St. Petersburg.
 
-Музыкальные предпочтения не сильно меняются в течение недели — будь то Москва или Петербург. Небольшие различия заметны в начале недели, по понедельникам:
+2. Musical preferences do not change much within a week - whether Moscow or St. Petersburg. Small differences are noticeable at the beginning of the week, on Mondays:
+In Moscow, users listen to the music of the genre “World”,
+In St. Petersburg - jazz and classics.
 
-в Москве слушают музыку жанра “world”,
-в Петербурге — джаз и классику.
-Во вкусах пользователей Москвы и Петербурга больше общего чем различий. Вопреки ожиданиям, предпочтения жанров в Петербурге напоминают московские.
-## Стек технологий:
+3. The tastes of users of Moscow and St. Petersburg have much more in common than differences. Contrary to expectations, the preferences of genres in St. Petersburg resembles Moscow.
+## Technology stack
 Pandas, jupyter notebook
-## Статус проекта:
-Завершен.
+## Project status:
+Completed.
