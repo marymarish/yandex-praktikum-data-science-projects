@@ -1,6 +1,6 @@
 ## Yandex.Practicum Data Science Projects
 Repository with Data Science projects:
-# Yandex.Music
+# 1. Yandex.Music
 ## Research results
 Three hypotheses were checked and installed:
 
